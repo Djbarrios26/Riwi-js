@@ -1,2 +1,2 @@
 # Aprendiendo JavaScript
-aprendiendo javaScript
+Riwi-JS
